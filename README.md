@@ -1,4 +1,4 @@
-## About
+## Introduction
 
 Welcome to my homepage! This page serves as a landing page for my Github profile, containing my CV as well as personal and open source projects that I've worked on.
 
